@@ -5,10 +5,7 @@ This is a web application for explore and know about some technologies, such as 
 ## Description 
 The purpose of this project is build a web application in order to create custom web services.
 
-This is your new Play application
 =================================
-
-This file will be packaged with your application, when using `activator dist`.
 
 1) Install scala, play and sbt latest versions
 
