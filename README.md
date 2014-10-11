@@ -11,7 +11,11 @@ This is your new Play application
 This file will be packaged with your application, when using `activator dist`.
 
 1) Install scala, play and sbt latest versions
+
 2) > cd YOURPATH/dummy-data
+
 3) sbt
+
 4) run
+
 5) open localhost:9000 in your broswer
